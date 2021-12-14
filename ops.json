@@ -1,5 +1,14 @@
-[ {
-  "uuid": "d2de82b7-8ece-4d8e-84c2-bc931df447f2",
-  "name": "spaders",
-  "level": 4
-}]
+[
+  {
+    "uuid": "5ad70de2-b6c5-41ef-b0de-3118a9e1f3f5",
+    "name": "Spader",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d2de82b7-8ece-4d8e-84c2-bc931df447f2",
+    "name": "spaders",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

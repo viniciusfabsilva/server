@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1d3068db-f4f0-3382-b39b-ba055a720e0b",
+    "name": "spaders",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
